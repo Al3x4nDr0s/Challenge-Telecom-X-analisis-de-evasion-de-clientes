@@ -1,4 +1,4 @@
-# Informe Final - Análisis de Evasión de Clientes (Churn) en Telecom-X
+# Informe Final - Análisis de Evasión de Clientes en Telecom-X
 
 ## Introducción
 
